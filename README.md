@@ -1,4 +1,4 @@
-#Welcomer to my code!
+# Welcomer to my code!
 
 For my website, I included several aspects that I learned in class.
 Starting with the graphical design using the program GIMP
